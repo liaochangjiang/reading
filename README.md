@@ -1,5 +1,7 @@
 # Keep my reading list and notes
 
+## [Books](./src/books/README.md)
+
 ## Frontend
 
 | Date       |       Tags        | Original Link                                                                              | Note                                                   |
