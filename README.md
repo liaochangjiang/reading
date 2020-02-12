@@ -1,6 +1,15 @@
 # Keep my reading list and notes
 
-## [Books](./src/books/README.md)
+## Books
+
+### Reading
+
+- [Don't Make Me Think](./dont-make-me-think.md)
+- [ECMAScript 6 入门教程](https://es6.ruanyifeng.com/)
+
+### Read
+
+### Plan to Read
 
 ## Frontend
 
