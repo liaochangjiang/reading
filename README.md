@@ -15,4 +15,6 @@
 
 ## Project Management
 
-| 2020-02-13 | git,commit  | [Why You Should Write Small Git Commits](https://medium.com/better-programming/why-you-should-write-small-git-commits-c9a042737aa6)                 | [Git Commit](./src/project/git/commit.md)     |
+| Date       |    Tags    | Original Link                                                                                                                       | Note                                      |
+| ---------- | :--------: | :---------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------- |
+| 2020-02-13 | git,commit | [Why You Should Write Small Git Commits](https://medium.com/better-programming/why-you-should-write-small-git-commits-c9a042737aa6) | [Git Commit](./src/project/git/commit.md) |
