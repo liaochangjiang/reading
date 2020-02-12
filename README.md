@@ -12,3 +12,7 @@
 | 2020-02-13 | css, browser, vh  | [[译] 你知道关于视口单位的这几件事情吗？](https://juejin.im/post/5e4363f7e51d4526ff02456a) | [Viewport](./src/frontend/css/viewport.md)             |
 | 2020-02-13 |     devtools      | [Chrome 80 DevTools](https://juejin.im/post/5e42a6c4e51d4526e651b26e)                      | [DevTools](./src/frontend/browser/devtools.md)         |
 | 2020-02-13 | javascript,async  | [JavaScript 异步编程之路](https://juejin.im/post/5e436233518825497312189f)                 | [异步](./src/language/javascript/road-to-async.md)     |
+
+## Project Management
+
+| 2020-02-13 | git,commit  | [Why You Should Write Small Git Commits](https://medium.com/better-programming/why-you-should-write-small-git-commits-c9a042737aa6)                 | [Git Commit](./src/project/git/commit.md)     |
